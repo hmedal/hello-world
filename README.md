@@ -1,2 +1,3 @@
 # hello-world
-This is to use with the github tutorial
+
+Hello. My name is Hugh Medal
